@@ -1,4 +1,4 @@
-# <p style="text-align: center;">Orlandini's Website.</p>
+# <p style="text-align: center;">Orlando Orlandini's website.</p>
 
 This website was created in an effort to gather all of the useful information about Orlando,  
 A local celebrity master chef from Croatia, Under one umbrella.  
@@ -51,7 +51,6 @@ It is displayed the very same across all three pages.
 
 ![footer](/images/footer.JPG)
 
-***
 
 ## <p style="text-align: center;">Gallery</p>
 
@@ -61,6 +60,65 @@ It consists of dozens of images , Displaying the most recent dishes prepared by 
 
 ![Gallery](/images/orlando_gallery.JPG)
 
+
+
+## <p style="text-align: center;">Request a recipe</p>
+
+As the title suggests request a recipe is the final aspect to this webpage , It connects the user to Orlando , through a small form.
+
+By completing this simple but stylish form, end user requests a recipe information from Orlando.
+
+![Form](/images/orlando_request_a_recipe.JPG)
+
+
+***
+
+
+* ## Testing
+
+Moving on to the testing aspect of this project , 
+
+i can confirm the code used on this project has been tested with 
+
+- https://validator.w3.org/ for HTML
+- https://jigsaw.w3.org/css-validator/ for CSS
+
+Both of which have come back with no errors.
+
+It is also important to mention there are no known bugs on this webpage.
+
+If you do however encounter an error or a bug while browsing the webpage , Please do contact me.
+
+* ## Deployment
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows:
+- In the GitHub repository, navigate to the Settings tab 
+- From the source section drop-down menu, select the Master Branch
+- Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+
+##### The live link can be found here -
+
+*** 
+
+* ## Credits
+
+
+### <p style="text-align: center;">Content</p>
+
+- The icons in the footer and nav bar, were taken from [Font Awesome](https://fontawesome.com/)
+- News articles were sourced from , https://slobodnadalmacija.hr/ , And   
+https://www.total-croatia-news.com/
+- All of the other information , At my request , Was provided by Orlando.
+
+
+### <p style="text-align: center;">Media</p>
+
+
+- Form page contains a beautiful third party image , It can be found in the link provided below.
+
+https://wallpaperaccess.com/food-4k
+
+- All of the images used in the gallery are the propery of Orlando , And can not be used without his explicit permission.
 
 
 
