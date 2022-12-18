@@ -105,7 +105,7 @@ body {
 #hero-image {
     height: 300px;
     width: 100%;
-    background-image: url('images/newhero.jpg');
+    background-image: url('images/hero-image.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center right;
