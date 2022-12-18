@@ -174,13 +174,15 @@ form {
 
 label {
     letter-spacing: 1px;
-    width: 100px;
+    width: 150px;
     display: inline-block;
     font-size: 18px;
-    text-align: center;
+    text-align: left;
     margin-right: 1em;
     font-weight: 300;
     font-family: Oswald, sans-serif;
+    text-decoration: underline 1px solid #DC582A;
+    text-underline-offset: 4px;
 }
 
 #lastone {
@@ -216,7 +218,6 @@ textarea::placeholder {
 #txtarea {
     margin-top: 35px;
     outline: 2px solid #fff;
-
 }
 
 #submit {
