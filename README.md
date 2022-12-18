@@ -5,10 +5,6 @@ Thus simplifying the users search for information about Orlando.
 The entire project took roughly a week to complete.
 ***
 
-
-
-
-***
 ## Features
 
 __This webpage consists of three main pages:,__
