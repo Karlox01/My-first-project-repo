@@ -1,4 +1,4 @@
-# <p style="text-align: center;">Head Chef's website</p>
+# Head Chef's website.
 
 This website was created in an effort to gather all of the information about Orlando (A local celebrity master chef from Croatia.) , Under one umbrella,  
 Thus simplifying the users search for information about Orlando.
