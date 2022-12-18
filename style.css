@@ -222,6 +222,7 @@ em {
     flex-direction: column;
     justify-content: center;
     letter-spacing: 2px;
+    text-transform: uppercase;
 }
 
 #ethos-middle-photo {
@@ -395,6 +396,7 @@ i {
     #image-status {
         font-size: 12px;
         text-align: center;
+        text-transform: uppercase;
     }
 
     #photos {
@@ -486,6 +488,7 @@ i {
         font-size: 12px;
         text-align: center;
         font-weight: 300;
+        text-transform: uppercase;
     }
 
     /* ------------------------------Footer responsive ---------------------------- */
