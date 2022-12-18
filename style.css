@@ -5,6 +5,8 @@ body {
     width: 90%;
     overflow-x: hidden;
     margin: 0 auto;
+    background: url('images/walltwo.jpg');
+    background-size: contain 100%;
 }
 
 
