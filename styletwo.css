@@ -1,0 +1,404 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&family=Solway:wght@300;500;700&display=swap');
+
+body {
+    background-color: #222;
+    width: 100%;
+    overflow-x: hidden;
+    margin: 0 auto;
+}
+
+
+#titlesection {
+    display: flex;
+    flex-basis: 100%;
+    width: 100%;
+    height: 85px;
+}
+
+/* --------------------First title flexbox ----------------------*/
+
+#titleboxone {
+    flex-shrink: 0;
+    display: flex;
+    flex-basis: 40%;
+    flex-direction: row;
+    align-content: flex-end;
+}
+
+#titlename {
+    flex-basis: 100%;
+    font-family: Oswald, serif;
+    font-weight: bold;
+    font-size: 30px;
+    color: #DC582A;
+    transform: skewX(-10deg);
+    text-transform: uppercase;
+    align-self: center;
+    text-align: center;
+    border-radius: 10%;
+    background-image: linear-gradient(to top, rgba(255, 255, 255, 0.05), #222);
+}
+
+#orlhead {
+    background: url(Photos/favicon2.jpg);
+    background-size: contain;
+    height: 35px;
+    width: 35px;
+    display: inline-block;
+    border-radius: 50%;
+}
+
+
+
+/* ---------------------- Second title flex box ---------------------*/
+
+#headerlinks {
+    flex-basis: 60%;
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.flexlink {
+    display: inline-block;
+    padding: 0 5px;
+    font-family: Oswald, sans-serif;
+    font-weight: 500;
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 0.5px;
+    padding-left: 10px;
+    font-size: 18px;
+}
+
+.topi {
+    font-size: 35px;
+    color: #DC582A;
+    margin-left: 10px;
+}
+
+.flexlink:hover {
+    color: #DC582A;
+    transition: .5s;
+    border-top: none;
+}
+
+
+
+
+/* -----------------Footer ---------------------- */
+
+
+.social-footer {
+    height: 40px;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    color: orange;
+    font-family: Oswald, sans-serif;
+    font-weight: 100;
+    letter-spacing: 3px;
+    position: fixed;
+    bottom: 0;
+    font-size: 10px;
+    background-color: #464646;
+}
+
+.social-footer i {
+    font-size: 25px;
+    color: #DC582A;
+}
+
+#links>a,
+i {
+    padding: 1px;
+    margin: 0px;
+}
+
+
+#links {
+    flex: 0 0 50%;
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    justify-content: flex-end;
+    align-self: center;
+}
+
+#rights {
+    flex: 0 0 49%;
+    text-align: right;
+    align-self: center;
+}
+
+
+
+/*--------------------------------------------FORM----------------------------------------------- */
+
+
+#request {
+    display: flex;
+    flex: 1 1 100%;
+    flex-direction: column;
+    height: 850px;
+    background: url('yepaa.jpg') no-repeat;
+    background-size: contain 100%;
+    justify-content: left;
+    width: 100%;
+}
+
+/* Form title description Please fill in the below...etc */
+.boldie {
+    color: #fff;
+    font-weight: 400;
+    font-family: Oswald, sans-serif;
+}
+
+
+#form {
+    flex-basis: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    width: 700px;
+    justify-content: center;
+    padding-left: 150px;
+}
+
+form {
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5), #222);
+
+}
+
+
+label {
+    letter-spacing: 1px;
+    width: 100px;
+    display: inline-block;
+    font-size: 18px;
+    text-align: center;
+    margin-right: 1em;
+    font-weight: 300;
+    font-family: Oswald, sans-serif;
+}
+
+#lastone {
+    display: none;
+}
+
+.email {
+    width: 420px;
+}
+
+input {
+    height: 30px;
+    width: 200px;
+    margin-top: 20px;
+    display: inline-block;
+    outline: 2px solid #fff;
+}
+
+input::placeholder {
+    color: #DC582A;
+    text-align: center;
+    font-weight: 400;
+    font-family: Oswald, sans-serif;
+}
+
+textarea::placeholder {
+    color: #DC582A;
+    text-align: center;
+    font-weight: 400;
+    font-family: Oswald, sans-serif;
+}
+
+#txtarea {
+    margin-top: 35px;
+    outline: 2px solid #fff;
+
+}
+
+#submit {
+    width: 170px;
+    height: 40px;
+    margin: 20px;
+    color: #fff;
+    padding-bottom: 10px;
+    font-family: Oswald, sans-serif;
+    font-size: bold;
+    font-size: 20px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    background-image: linear-gradient(to right, #222, #464646);
+    margin-left: 280px;
+    outline: 2px solid #fff;
+
+}
+
+#submit:hover {
+    color: #DC582A;
+    transition: .5s;
+}
+
+
+
+@media screen and (min-width:460px) and (max-width:900px) {
+    form {
+        width: 400px;
+        align-self: center;
+    }
+}
+
+
+
+
+@media screen and (max-width:900px) {
+
+    body {
+        width: 95%;
+        height: auto;
+    }
+
+    #titlesection {
+        flex-direction: column;
+        width: 100%;
+        height: auto;
+        flex-basis: 100%;
+    }
+
+    #titleboxone {
+        flex-basis: 40%;
+    }
+
+    #titlename {
+        font-size: 30px;
+        flex-basis: 100%;
+        align-self: center;
+    }
+
+    #headerlinks {
+        font-size: 12px;
+        flex-basis: 100%;
+    }
+
+    .flexlink {
+        font-size: 15px;
+        padding: 0;
+        display: inline-block;
+        text-align: center;
+    }
+
+    .fa-solid {
+        font-size: 20px;
+        margin-top: 5px;
+        margin-left: 0;
+    }
+
+
+    /* ---------- Footer responsive------------*/
+
+    #links {
+        flex: 0 0 50%;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-self: center;
+    }
+
+    #links>a,
+    i {
+        padding-left: 0;
+        margin: 0;
+    }
+
+    .social-footer {
+        width: 95%;
+    }
+
+    /*------------ Form responsive elements----------- */
+
+
+    #request {
+        display: flex;
+        flex: 0 1 100%;
+        flex-direction: column;
+        height: 700px;
+        background: url('yepaa.jpg') no-repeat;
+        background-size: cover;
+        width: 100%;
+    }
+
+
+    #form {
+        flex-basis: 100%;
+        flex-grow: 0;
+        flex-shrink: 1;
+        text-align: center;
+        color: #fff;
+        padding: 0px;
+        width: 100%;
+        height: 400px;
+    }
+
+    .boldie {
+        color: #DC582A;
+        font-weight: 400;
+        font-family: Oswald, sans-serif;
+        font-size: 20px;
+        text-transform: uppercase;
+    }
+
+
+    label {
+        letter-spacing: 1px;
+        width: 200px;
+        display: inline-block;
+        font-size: 18px;
+        text-align: center;
+        font-weight: 300;
+        font-family: Oswald, sans-serif;
+        padding-top: 5px;
+        margin-right: 0px;
+
+    }
+
+    input {
+        width: 200px;
+        margin-top: 5px;
+
+    }
+
+    #lastone {
+        display: inline-block;
+    }
+
+    .email {
+        width: 200px;
+    }
+
+    #txtarea {
+        width: 200px;
+        margin-top: 5px;
+    }
+
+    #submit {
+        width: 100px;
+        height: 40px;
+        color: #fff;
+        padding-bottom: 5px;
+        font-family: Oswald, sans-serif;
+        font-size: bold;
+        font-size: 20px;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        background-image: linear-gradient(to right, #222, #464646);
+        outline: 2px solid #fff;
+        margin-left: 0;
+    }
+
+
+
+
+}
