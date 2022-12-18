@@ -142,7 +142,7 @@ i {
     flex: 1 1 100%;
     flex-direction: column;
     height: 850px;
-    background: url('yepaa.jpg') no-repeat;
+    background: url('images/background-form.jpeg') no-repeat;
     background-size: contain 100%;
     justify-content: left;
     width: 100%;
@@ -325,7 +325,7 @@ textarea::placeholder {
         flex: 0 1 100%;
         flex-direction: column;
         height: 700px;
-        background: url('yepaa.jpg') no-repeat;
+        background: url('images/background-form.jpeg') no-repeat;
         background-size: cover;
         width: 100%;
     }
