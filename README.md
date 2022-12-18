@@ -1,9 +1,12 @@
 # <p style="text-align: center;">Head Chef's website</p>
 
-This website was created in an effort to gather all of the useful information about Orlando,  
-A local celebrity master chef from Croatia, Under one umbrella.  
-It also intends to bring the person browsing for information about Orlando , Closer to him, By displaying all of the recent photographs , Recent curriculum vitae, links to further social media sites, etc.
-Webpage also includes a "Recipe request" form, Where a user can ask Orlando for a recipe.
+This website was created in an effort to gather all of the information about Orlando (A local celebrity master chef from Croatia.) , Under one umbrella,  
+Thus simplifying the users search for information about Orlando.
+The entire project took roughly a week to complete.
+***
+
+
+
 
 ***
 ## Features
