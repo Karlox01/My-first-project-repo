@@ -28,6 +28,43 @@
         </section>
         <hr>
     </header>
+    <main>
+        <section id="request">
+            <div id="form">
+
+                <form method="post" action="#">
+                    <fieldset>
+                        <h2 class="boldie"> &nbsp;Please fill in the below form to request a recipe&nbsp;</h2>
+
+
+                        <label for="fname"> Your Name </label>
+                        <input class="text-input" id="fname" name="first_name" type="text" required
+                            placeholder="Your First Name">
+                        &nbsp;
+                        <label for="lname" id="lastone"> Last Name </label>
+                        <input class="text-input" id="lname" name="last_name" type="text" required
+                            placeholder="Your Last Name">
+                        <br>
+
+                        <label for="email">Email Address </label>
+                        <input class="text-input email" type="email" id="email" name="email_address" required
+                            placeholder="Your Email Address">
+                        <br>
+
+                        <label for="txtarea">Recipe Requested </label>
+                        <textarea id="txtarea" name="Info_about_recipe" required rows="2" cols="55"
+                            placeholder="You can request multiple recipes."></textarea>
+                        <br>
+
+
+                        <input type="submit" value="Request" id="submit">
+                    </fieldset>
+
+                </form>
+
+            </div>
+        </section>
+    </main>
     
 </body>
 </html>
