@@ -1,12 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&family=Solway:wght@300;500;700&display=swap');
 
+
+html {
+    width: 100%;
+    height: auto;
+}
+
 body {
     background-color: #222;
     width: 90%;
     overflow-x: hidden;
     margin: 0 auto;
-    background: url('images/walltwo.jpg');
-    background-size: contain 100%;
+    background: url('images/walltwo.jpg') no-repeat;
+    background-size: 100% 100%;
 }
 
 
@@ -256,6 +262,7 @@ em {
 
 /* ------------------------------------------------------------------------------ Footer ------------------------------------------------------------------ */
 
+
 .footeraccounce {
     font-family: Oswald, sans-serif;
     font-weight: 400;
@@ -274,7 +281,7 @@ em {
     flex-grow: 0;
     flex-direction: column;
     flex-basis: 100%;
-    height: 800px;
+    height: auto;
     margin-bottom: 80px;
 }
 
@@ -378,14 +385,14 @@ i {
     line-height: 0;
     column-count: 3;
     column-gap: 0;
-    width: 100%;
     height: auto;
-
-}
-
-#photos>img {
     width: 100%;
 }
+
+#photos > img {
+    width: 100%;
+}
+
 
 
 /* ----------------------------------------------------------------------  Media Queries ------------------------------------------------------------------------------ */
@@ -481,7 +488,7 @@ i {
     #ethos-main {
         flex-direction: column;
         width: 100%;
-        height: 1600px;
+        height: 1500px;
     }
 
     #image-status {
@@ -496,7 +503,7 @@ i {
     .footeries {
         flex-direction: column;
         width: 100%;
-        height: 800px;
+        height: auto;
     }
 
     .topone {
