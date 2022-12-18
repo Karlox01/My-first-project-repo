@@ -226,7 +226,7 @@ em {
 
 #ethos-middle-photo {
 
-    background: url('Photos/main-orlando.jpg') no-repeat center center;
+    background: url('images/main-orlando.jpg') no-repeat center center;
     flex-basis: 70%;
     background-size: 600px;
     height: 350px;
