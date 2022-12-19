@@ -9,6 +9,7 @@ The entire project took roughly a week to complete.
 
 [![am i responsive](images/readmephotos/am_i_responsive.JPG)](https://github.com/Karlox01/My-first-project-repo/blob/Main/images/readmephotos/am_i_responsive.JPG)
 
+
 ***
 
 ## __Website Structure__ -
@@ -118,10 +119,18 @@ By completing this simple but stylish form, end user requests a recipe informati
 
 Moving on to the testing aspect of this project , 
 
-i can confirm the code used on this project has been tested with 
+* i can confirm the code used on this project has been tested with 
+ https://validator.w3.org/ for HTML
+ https://jigsaw.w3.org/css-validator/ for CSS
 
-- https://validator.w3.org/ for HTML
-- https://jigsaw.w3.org/css-validator/ for CSS
+ Both of which have come back with no errors.
+ 
+
+
+__Lighthouse__ has rated the website in the upper 90's as can be seen below.
+
+[![lighthouse test](images/readmephotos/lighthouse_score.JPG)](https://github.com/Karlox01/My-first-project-repo/blob/Main/images/readmephotos/lighthouse_score.JPG)
+
 
 Both of which have come back with no errors.
 
