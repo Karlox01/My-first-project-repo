@@ -3,7 +3,10 @@
 This website was created in an effort to gather all of the information about Orlando (A local celebrity master chef from Croatia.) , Under one umbrella,  
 Thus simplifying the users search for information about Orlando.
 The entire project took roughly a week to complete.
-***
+
+ - [link](https://karlox01.github.io/My-first-project-repo/)
+
+![am i responsive](images/readmephotos/am_i_responsive.JPG)
 
 ## Features
 
