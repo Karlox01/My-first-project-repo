@@ -1,11 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@200;300;400;500;600;700&family=Solway:wght@300;500;700&display=swap');
 
 body {
-    background-color: #222;
+    background:linear-gradient(to right, rgba(64, 64, 64, 1), rgba(20, 20, 20, 1));
     width: 100%;
     overflow-x: hidden;
     margin: 0 auto;
-    background: url('images/walltwo.jpg');
 }
 
 
@@ -140,7 +139,7 @@ i {
     display: flex;
     flex: 1 1 100%;
     flex-direction: column;
-    height: 900px;
+    height: 750px;
     background: url('images/background-form.jpeg') no-repeat;
     background-size: 100% 100%;
     justify-content: left;
@@ -330,7 +329,7 @@ textarea::placeholder {
         display: flex;
         flex: 0 1 100%;
         flex-direction: column;
-        height: 800px;
+        height: 700px;
         background: url('images/background-form.jpeg') no-repeat;
         background-size: cover;
         width: 100%;
