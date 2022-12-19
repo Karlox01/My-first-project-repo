@@ -4,9 +4,11 @@ This website was created in an effort to gather all of the information about Orl
 Thus simplifying the users search for information about Orlando.
 The entire project took roughly a week to complete.
 
- - [link](https://karlox01.github.io/My-first-project-repo/)
+ - To visit website [Click here...](https://karlox01.github.io/My-first-project-repo/)
 
-![am i responsive](images/readmephotos/am_i_responsive.JPG)
+[![am i responsive](images/readmephotos/am_i_responsive.JPG)](https://github.com/Karlox01/My-first-project-repo/blob/Main/images/readmephotos/am_i_responsive.JPG)
+
+***
 
 ## Features
 
