@@ -165,6 +165,7 @@ em {
     flex-direction: row;
     flex-basis: 100%;
     height: auto;
+    margin-bottom: 40px;
 }
 
 /* ------------------------------------------------------------------------------------ Left Ethos --------------------------------------------------------------- */
@@ -280,7 +281,7 @@ em {
     flex-direction: column;
     flex-basis: 100%;
     height: auto;
-    margin-bottom: 80px;
+    margin-bottom: 10px;
 }
 
 .news {
