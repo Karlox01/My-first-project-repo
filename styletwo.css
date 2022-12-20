@@ -92,7 +92,7 @@ body {
     height: 40px;
     display: flex;
     flex-direction: row;
-    width: 100%;
+    width: 90%;
     color: orange;
     font-family: Oswald, sans-serif;
     font-weight: 100;
@@ -129,6 +129,7 @@ i {
     text-align: right;
     align-self: center;
 }
+
 
 
 
