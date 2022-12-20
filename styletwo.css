@@ -330,7 +330,8 @@ textarea::placeholder {
         display: flex;
         flex: 0 1 100%;
         flex-direction: column;
-        height: 700px;
+        min-height: 550px;
+        max-height: 900px;
         background: url('images/background-form.jpeg') no-repeat;
         background-size: cover;
         width: 100%;
@@ -402,6 +403,14 @@ textarea::placeholder {
         outline: 2px solid #fff;
         margin-left: 0;
     }
+
+    #rights {
+        flex: 0 0 49%;
+        text-align: right;
+        align-self: center;
+        font-size: 8px;
+    }
+
 
 
 
