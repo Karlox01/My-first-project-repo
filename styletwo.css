@@ -141,7 +141,7 @@ i {
     flex: 1 1 100%;
     flex-direction: column;
     height: 750px;
-    background: url('images/background-form.jpeg') no-repeat;
+    background: url('images/background-form.webp') no-repeat;
     background-size: 100% 100%;
     justify-content: left;
     width: 100%;
@@ -250,13 +250,12 @@ textarea::placeholder {
 }
 
 
-
-
 @media screen and (max-width:900px) {
 
     body {
         width: 95%;
-        height: auto;
+        min-height: 450px;
+        max-height: 900px;
     }
 
     #titlesection {
@@ -271,7 +270,7 @@ textarea::placeholder {
     }
 
     #titlename {
-        font-size: 30px;
+        font-size: 34px;
         flex-basis: 100%;
         align-self: center;
     }
@@ -323,6 +322,13 @@ textarea::placeholder {
         width: 95%;
     }
 
+    #rights {
+        flex: 0 0 49%;
+        text-align: right;
+        align-self: center;
+        font-size: 8px;
+    }
+
     /*------------ Form responsive elements----------- */
 
 
@@ -330,9 +336,8 @@ textarea::placeholder {
         display: flex;
         flex: 0 1 100%;
         flex-direction: column;
-        min-height: 550px;
-        max-height: 900px;
-        background: url('images/background-form.jpeg') no-repeat;
+        max-height: 100%;
+        background: url('images/background-form.webp') no-repeat;
         background-size: cover;
         width: 100%;
     }
@@ -347,11 +352,13 @@ textarea::placeholder {
         padding: 0px;
         width: 100%;
         height: 400px;
+        justify-content: flex-start; 
+        margin-top: 20px;
     }
 
     .boldie {
         color: #DC582A;
-        font-weight: 400;
+        font-weight: 600;
         font-family: Lato, sans-serif;
         font-size: 20px;
         text-transform: uppercase;
@@ -403,16 +410,6 @@ textarea::placeholder {
         outline: 2px solid #fff;
         margin-left: 0;
     }
-
-    #rights {
-        flex: 0 0 49%;
-        text-align: right;
-        align-self: center;
-        font-size: 8px;
-    }
-
-
-
 
 
 }
