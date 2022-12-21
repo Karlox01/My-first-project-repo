@@ -60,7 +60,7 @@ As for the user i wanted :
  
 ## - Fonts
 
-* Three different fonts were used on this website , and they include.  
+Three different fonts were used on this website , and they include.  
 
 __Lato__  
 * Used primarily on the header navigation links and the form elements.
