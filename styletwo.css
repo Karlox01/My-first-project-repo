@@ -245,7 +245,7 @@ textarea::placeholder {
 
 /* -----------------------------------------------------Small phones ----------------------------------------------*/
 
-@media screen and (min-width:300px) and (max-width:360px) {
+@media screen and (min-width:300px) and (max-width:365px) {
 
     body {
         width: 100%;
@@ -395,7 +395,6 @@ input {
 /*---------------------------------------------------------------Large Phones + Tablet ------------------------------------------------*/
 
 
-
 @media screen and (min-width:460px) and (max-width:900px) {
     form {
         width: 400px;
@@ -404,7 +403,8 @@ input {
 }
 
 
-@media screen and (min-width:360px) and (max-width:900px) {
+
+@media screen and (min-width:365px) and (max-width:900px) {
 
 
 /* ------------------------------------------------------Header responsive ----------------------------------------------*/
