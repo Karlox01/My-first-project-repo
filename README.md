@@ -51,9 +51,9 @@ As for the user i wanted :
 
  I have decided to utilize 3 main colors on this website.
 
-  * #DC582A Used mostly on headers it is meant to signify high importance.
-  * #FFFFFF Used on most of the paragraph text.
-  * #464646 Used as a background on the fixed footer 
+  * [#DC582A](https://www.color-hex.com/color/dc582a) Used mostly on headers it is meant to signify high importance.
+  * [#FFFFFF](https://www.color-hex.com/color/ffffff) Used on most of the paragraph text.
+  * [#464646](https://www.color-hex.com/color/464646) Used as a background on the fixed footer 
 
   [![color pallete](images/readmephotos/colors.JPG)](https://raw.githubusercontent.com/Karlox01/My-first-project-repo/Main/images/readmephotos/colors.JPG)
 
@@ -62,19 +62,19 @@ As for the user i wanted :
 
 Three different fonts were used on this website , and they include. 
 
-__Lato__  
+__Lato__  [Font](https://fonts.google.com/specimen/Lato) 
 * Used primarily on the header navigation links and the form elements.
 
 
 ![Lato](images/readmephotos/lato_font.JPG)
 
-__Oswald__   
+__Oswald__  [Font](https://fonts.google.com/specimen/Oswald)
 * Used extensively throught the page , most of the observed font is Oswald in the various font-weight options.
 
 
 ![Oswald](images/readmephotos/Oswald_font.JPG)
 
-__San serif__
+__San Serif__ [Font](https://fonts.google.com/knowledge/glossary/sans_serif)
 * Used as a backup font , Not a primary font on any of the page elements.
 *** 
 
@@ -188,7 +188,7 @@ https://www.total-croatia-news.com/
 ### - External Media
 
 
-- Form page contains a beautiful third party image , It can be found in the link provided below.
+- Form page contains a beautiful third party image , It can be found [Here](https://www.pexels.com/photo/abstract-backdrop-of-modern-building-roof-in-sunlight-5825604/)
 
 https://wallpaperaccess.com/food-4k
 
