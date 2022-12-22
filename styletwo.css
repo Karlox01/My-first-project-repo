@@ -226,7 +226,7 @@ textarea::placeholder {
     color: #fff;
     padding-bottom: 10px;
     font-family: Oswald, sans-serif;
-    font-size: bold;
+    font-weight: 500;
     font-size: 20px;
     letter-spacing: 2px;
     text-transform: uppercase;
@@ -403,7 +403,7 @@ textarea::placeholder {
         color: #fff;
         padding-bottom: 5px;
         font-family: Oswald, sans-serif;
-        font-size: bold;
+        font-weight: 500;
         font-size: 20px;
         letter-spacing: 2px;
         text-transform: uppercase;
