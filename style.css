@@ -231,7 +231,6 @@ em {
 }
 
 #ethos-middle-photo {
-
     background: url('images/main-orlando.webp') no-repeat center center;
     flex-basis: 70%;
     background-size: 600px;
@@ -396,6 +395,7 @@ i {
 
 /* ----------------------------------------------------------------------  Media Queries ------------------------------------------------------------------------------ */
 
+/*-------------------------------------------------------------------Tablet----------------------------------------*/
 @media screen and (min-width:800px) and (max-width:1500px) {
     #image-status {
         font-size: 12px;
@@ -419,8 +419,115 @@ i {
 
 }
 
+/*-------------------------------------------------------------Media query for SMALL PHONE SCREEN --------------------------------------------*/
+@media screen and (min-width:300px) and (max-width:350px) {
 
-@media screen and (max-width:1130px) {
+    body {
+        width: 100%;
+        overflow: none;
+    }
+/*---------------------------------------Header responsive -------------------------------------------*/
+    #titlesection {
+        flex-direction: column;
+        width: 100%;
+        height: auto;
+        flex-basis: 100%;
+    }
+
+    #titlename {
+        font-size: 20px;
+        flex-basis: 100%;
+        align-self: center;
+    }
+
+    #headerlinks {
+        font-size: 10px;
+        flex-basis: 100%;
+    }
+
+    .flexlink {
+        font-size: 10px;
+        padding-top: 5px;
+        display: inline-block;
+        text-align: left;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    .fa-solid {
+        font-size: 10px;
+        margin-top: 5px;
+        margin-left: 0;
+    }
+/* -------------------------------Ethos + About me responsive--------------------------------------*/
+    .about {
+        font-size: 20px;
+    }
+
+    .topone {
+        font-size: 20px;
+    }
+
+    #ethos-main {
+        flex-direction: column;
+        width: 100%;
+        height: 1500px;
+    }
+
+    #image-status {
+       display: none;
+    }
+
+    #ethos-middle-photo {
+        background: url('images/main-orlando.webp') no-repeat center center;
+        flex-basis: 100%;
+        background-size: 600px;
+        height: 200px;
+        width: 300px;
+        border-radius: 50%;
+        justify-content: center;
+    }
+
+/* -----------------------------Fixed footer -----------------------*/
+    #links {
+        flex: 0 0 50%;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-self: center;
+    }
+
+    .social-footer {
+        width: 99%;
+        padding-bottom: 1px;
+    }
+
+    #rights {
+        flex: 0 0 49%;
+        text-align: right;
+        align-self: center;
+        font-size: 8px;
+    }
+
+    
+/* ------------------------ Gallery responsive -------------------------*/
+
+
+#photos {
+    clear: both;
+    line-height: 0;
+    column-count: 1;
+    column-gap: 0;
+    width: 100%;
+    height: auto;
+}
+
+
+}
+
+/* ---------------------------------------------------------------Standard smartphone size + Tablet -----------------------------------------*/
+
+@media screen and (min-width:350px) and (max-width:1130px) {
 
     body {
         width: 100%;
@@ -565,7 +672,7 @@ i {
         font-size: 8px;
     }
 
-    /* ------------------------ Gallery responsive -------------------------*/
+/* ------------------------ Gallery responsive -------------------------*/
 
 
     #photos {
