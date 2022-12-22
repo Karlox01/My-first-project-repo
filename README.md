@@ -190,7 +190,6 @@ https://www.total-croatia-news.com/
 
 - Form page contains a beautiful third party image , It can be found [Here](https://www.pexels.com/photo/abstract-backdrop-of-modern-building-roof-in-sunlight-5825604/)
 
-https://wallpaperaccess.com/food-4k
 
 - All of the images used in the gallery are the propery of Orlando , And can not be used without his explicit permission.
 
