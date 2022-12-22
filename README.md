@@ -60,7 +60,7 @@ As for the user i wanted :
  
 ## - Fonts
 
-__Three different fonts were used on this website , and they include.__  
+Three different fonts were used on this website , and they include. 
 
 __Lato__  
 * Used primarily on the header navigation links and the form elements.
@@ -95,17 +95,18 @@ It is important to note it is fully responsive, and will shrink down to smaller 
 
 ![Welcome photo](/images/readmephotos/header_photo.JPG)
 
-## - Curriculum Vitae Section 
+## - History and Background
 
-* Moving on towards the middle of the page we come across the recent Curriculum vitae section, Here a user can find all the recent positions held by Orlando, This is useful for both Orlando and end user , In a way that Orlando can use this website as a CV of a sort, To attract potential recruiters, While the user can find more information about his recent ventures , Or if potentially a recruiter is browsing the site , They can find all the relevant info right there.
-
-![Curriculum vitae](/images/readmephotos/curriculum_vitae.JPG)
-
-## - History and Background 
-
-* On the bottom of the page user can find more information about Orlando's history and highlights of his career, Some of the highlights include links to third party websites that featured some of Orlando's work in the past.
+* Moving on towards the middle of the page we come across the About me section, User can find more information about Orlando's history and highlights of his career, Some of the highlights include links to third party websites that featured some of Orlando's work in the past.
 
 ![History](/images/readmephotos/about_me_readme.JPG)
+
+
+## - Curriculum Vitae Section 
+
+* On the bottom of the page a user can find all the recent positions held by Orlando, This is useful for both Orlando and end user , In a way that Orlando can use this website as a CV of a sort, To attract potential recruiters, While the user / potential recruiter can find more information about his recent ventures.
+
+![Curriculum vitae](/images/readmephotos/curriculum_vitae.JPG)
 
 
 ## - Footer 
