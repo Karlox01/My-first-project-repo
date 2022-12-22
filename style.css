@@ -396,8 +396,6 @@ i {
 
 /* ----------------------------------------------------------------------  Media Queries ------------------------------------------------------------------------------ */
 
-
-
 @media screen and (min-width:800px) and (max-width:1500px) {
     #image-status {
         font-size: 12px;
@@ -422,7 +420,7 @@ i {
 }
 
 
-@media screen and (max-width:800px) {
+@media screen and (max-width:1130px) {
 
     body {
         width: 100%;
