@@ -14,7 +14,7 @@ The entire project took roughly a week to complete.
 
 ## __Website Structure__ -
 
-_This webpage consists of three main pages ;_
+This webpage consists of three main pages ;
 *  __Landing page__ - [To visit click here...](https://karlox01.github.io/My-first-project-repo/)
 
  Provides an index page, For the user this is the first page experienced when they open the website, It is complied with useful information about Orlando's previous work roles , background and highlights.
@@ -43,15 +43,19 @@ _This webpage consists of three main pages ;_
  
 ## Fonts
 
-__Three different fonts were used on this website , and they include.__  
+Three different fonts were used on this website , and they include.
 
 __Lato__  
 * Used primarily on the header navigation links and the form elements.
-![Lato](images/readmephotos/Lato.JPG)
+
+
+![Lato](images/readmephotos/lato_font.JPG)
 
 __Oswald__   
 * Used extensively throught the page , most of the observed font is Oswald in the various font-weight options.
-![Oswald](images/readmephotos/Oswald.JPG)
+
+
+![Oswald](images/readmephotos/Oswald_font.JPG)
 
 __San serif__
 * Used as a backup font , Not a primary font on any of the page elements.
@@ -64,7 +68,7 @@ __San serif__
 * The very first a user gets to see when they open the website is the 
 The below navbar is displayed across all three pages , It is fully mobile/desktop responsive, And includes header/title , Short description, Further links to sections across the first page , as well as links to the other two pages, It also includes links to Orlando's social media sites.
 
-![Nav bar](images/readmephotos/header_nav.JPG)
+![Nav bar](images/readmephotos/header.JPG)
 
  ## Landing photograph 
 
@@ -72,19 +76,19 @@ The below navbar is displayed across all three pages , It is fully mobile/deskto
 It stylishly incorporates various dishes prepared by Orlando.  
 It is important to note it is fully responsive, and will shrink down to smaller sizes on mobile devices.
 
-![Welcome photo](/images/readmephotos/hero-image-readme.JPG)
+![Welcome photo](/images/readmephotos/header_photo.JPG)
 
 ## Curriculum Vitae Section 
 
 * Moving on towards the middle of the page we come across the recent Curriculum vitae section, Here a user can find all the recent positions held by Orlando, This is useful for both Orlando and end user , In a way that Orlando can use this website as a CV of a sort, To attract potential recruiters, While the user can find more information about his recent ventures , Or if potentially a recruiter is browsing the site , They can find all the relevant info right there.
 
-![Curriculum vitae](/images/readmephotos/main-ethos.JPG)
+![Curriculum vitae](/images/readmephotos/curriculum_vitae.JPG)
 
 ## History and Background 
 
 * On the bottom of the page user can find more information about Orlando's history and highlights of his career, Some of the highlights include links to third party websites that featured some of Orlando's work in the past.
 
-![History](/images/readmephotos/about_me.JPG)
+![History](/images/readmephotos/about_me_readme.JPG)
 
 
  ## Footer 
